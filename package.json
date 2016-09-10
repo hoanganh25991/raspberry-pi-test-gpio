@@ -1,0 +1,17 @@
+{
+  "name": "test-gpio-lib",
+  "version": "1.0.0",
+  "description": "test gpio lib /sys vs /dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anh Le Hoang",
+  "license": "MIT",
+  "dependencies": {
+    "onoff": "^1.1.1",
+    "rpi-gpio": "^0.7.0",
+    "rpio": "^0.9.12",
+    "wiring-pi": "^2.1.1"
+  }
+}
